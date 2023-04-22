@@ -1,7 +1,8 @@
 # New_York_Taxi_Fare_Prediction
 
 The New York taxi industry is a significant contributor to the city's transportation system, and it is crucial to ensure that passengers are charged a fair price for their rides. In this project, we aim to predict the taxi fare for a given set of latitude and longitude coordinates. The distance between the coordinates needs to be calculated, but as the coordinates are given in degrees and the distance is measured in meters, we use the Haversine formula to compute the distance accurately
-![images](https://user-images.githubusercontent.com/120264399/233766974-d6d4d8e5-d414-4bae-9760-bc53d66c9090.jpg)
+![vidar-nordli-mathisen-ZYDhBqxJnJ8-unsplash](https://user-images.githubusercontent.com/120264399/233767973-a6125723-863a-4e9e-b385-a93d48bcf3aa.jpg)
+
 
 To provide additional insights into the data, we perform some analysis on the dataset, including determining which year had the highest number of passengers and which month taxi drivers collected the most revenue. This information can be valuable to taxi companies and city officials to understand the trends in the taxi industry and make informed decisions.
 
