@@ -24,6 +24,6 @@ def prediction():
         return "please use curl for post request"
 
 if __name__ =="__main__":
-    path = ".\\tree.pb"
+    path = ".\\model_weight_noncol.pb"
     load_model(path)
     app.run(debug = True,host ="0.0.0.0" )
